@@ -16,3 +16,6 @@ venv/
 
 # Colab-specific files
 .ipynb_checkpoints/
+
+# Ignore data files
+data/*.csv
