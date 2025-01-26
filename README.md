@@ -1,12 +1,7 @@
-# Colab Project
+## **Diabetes Prediction with Sigmoid Perceptron**
 
-## Description
-This project contains code designed to run in Google Colab for [specific purpose].
+This project demonstrates using a custom sigmoid perceptron to predict diabetes based on input features.
 
-## Features
-- Feature 1: [Explain feature]
-- Feature 2: [Explain feature]
-- Feature 3: [Explain feature]
 
 ## Installation
 Run the following commands in your terminal to set up:
