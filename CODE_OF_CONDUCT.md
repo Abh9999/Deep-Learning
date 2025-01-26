@@ -6,7 +6,7 @@ We are committed to fostering an open and welcoming environment. All contributor
 ## Guidelines
 - Be respectful to others.
 - No harassment or discriminatory language.
-- Report unacceptable behavior to [email@example.com].
+- Report unacceptable behavior to [abhihirpara9999@gmail.com].
 
 ## Enforcement
 Instances of unacceptable behavior may be reported to the project maintainers for review and appropriate action.
